@@ -1,0 +1,16 @@
+.nav-clase{
+    display: inline-block;
+    background-color: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-clase:hover{
+    background-color: rosybrown;
+}
+nav{
+    background-color: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
