@@ -1,6 +1,6 @@
 import './Navbar.css'
-import logo_para_html_cafe from  '../assets/logo_para_html_cafe.png'
-import CartWidget from './CartWidget'
+import logo_para_html_cafe from  '../../assets/logo_para_html_cafe.png'
+import CartWidget from '../CartWidget/CartWidget'
 function Navbar () {
     return (
         <nav>
